@@ -17,7 +17,7 @@
   overflow: hidden;
   min-height: 600px;
   max-height: 756px;
-  padding-bottom:50px;
+  padding-bottom: 50px;
   /* выше установили ограничения для секции */
 }
 
@@ -26,7 +26,7 @@
   position: absolute;
   height: 568px;
   width: 568px;
-  background-color:  #2f80ed;
+  background-color: #2f80ed;
 }
 
 /* и элемента с модификатором вида ключ-значение */
@@ -36,8 +36,6 @@
   margin-right: 0;
   margin-top: 80px;
 }
-
-
 
 .logo_place_header {
   position: absolute;
@@ -58,7 +56,7 @@
   z-index: 5;
 }
 
-.header__subtitle  {
+.header__subtitle {
   max-width: 388px;
   line-height: 25px;
   font-size: 18px;
@@ -91,4 +89,47 @@
   position: absolute;
   top: 64px;
   right: 0;
+}
+
+.description {
+  display: flex;
+  justify-content: center;
+  padding-top: 100px;
+}
+
+.two-columns {
+  width: 80%;
+  display: grid;
+  grid-template-columns: 175px minmax(784px, 80%);
+  justify-content: space-between;
+  margin: 0 auto;
+}
+
+.two-columns__brief {
+  max-width: 175px;
+  color: #2f80ed;
+  line-height: 1.2;
+  font-size: 18px;
+  font-weight: normal;
+  margin: 0;
+}
+
+.two-columns__main-text {
+  display: flex;
+  flex-direction: column;
+  line-height: 34px;
+  font-size: 24px;
+  font-weight: normal;
+}
+
+.two-columns__paragraph {
+  margin: 0 0 30px;
+}
+
+.two-columns__paragraph:last-of-type {
+  margin-bottom: 0;
+}
+
+.two-columns__span-accent {
+  font-weight: bold;
 }
