@@ -11,7 +11,10 @@
 
 .header {
   position: relative;
+  background-color: #f2f2f2;
+  display: flex;
   height: 100vh;
+  overflow: hidden;
   min-height: 600px;
   max-height: 756px;
   padding-bottom:50px;
@@ -34,43 +37,58 @@
   margin-top: 80px;
 }
 
+
+
 .logo_place_header {
   position: absolute;
-  width: 228px;
-  height: 32px;
-  margin-top: 30px;
-  margin-left: 64px;
+  z-index: 2;
+  top: 30px;
+  left: 64px;
 }
 
 .header__title {
-  display: flex;
-  position: absolute;
-  width: 730px;
-  margin-top: 300px;
-  margin-left: 64px;
+  max-width: 730px;
+  line-height: 1;
   font-size: 102px;
+  font-weight: bold;
+  align-self: center;
+  position: relative;
+  left: 64px;
+  margin: 0;
+  z-index: 5;
 }
 
-.header__subtitle {
-  display: flex;
-  position:absolute;
-  width: 388px;
-  margin-bottom:30px;
+.header__subtitle  {
+  max-width: 388px;
+  line-height: 25px;
   font-size: 18px;
+  font-weight: normal;
+  position: absolute;
+  margin: 0;
+  left: 64px;
+  bottom: 30px;
 }
 
 .header__link {
-  position: absolute;
-  width: 388px;
-  margin-bottom: 30px;
-  font-size: 18px;
+  color: #2f80ed;
+  text-decoration: none;
+  transition: opacity .7s ease;
 }
 
 .header__main-illustration {
+  width: 765px;
+  height: 608px;
   position: absolute;
-  bottom: 0;
   right: 0;
-  height: 765px;
-  width: 608px;
+  bottom: 0;
+  z-index: 1;
+}
 
+.header__square-pic {
+  height: 568px;
+  width: 568px;
+  background-color: #2f80ed;
+  position: absolute;
+  top: 64px;
+  right: 0;
 }
