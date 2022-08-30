@@ -96,6 +96,7 @@
 }
 
 .description {
+  background-color: #f2f2f2;
   display: flex;
   justify-content: center;
   padding-top: 100px;
@@ -107,6 +108,7 @@
   grid-template-columns: 175px minmax(784px, 80%);
   justify-content: space-between;
   margin: 0 auto;
+
 }
 
 .two-columns__brief {
@@ -143,6 +145,7 @@
   flex-direction: column;
   align-items: center;
   padding: 100px 0;
+  background-color: #f2f2f2;
 }
 
 .section-title {
@@ -197,6 +200,8 @@
   position: relative;
   margin: 0;
   padding-top: 100px;
+  background-color: #f2f2f2;
+  z-index: -2;
 }
 
 
@@ -213,7 +218,6 @@
   line-height: 51px;
   font-size: 36px;
   font-weight: normal;
-
   text-align: center;
   margin: 70px 0 0;
 }
@@ -260,8 +264,6 @@
   background-image: url(../images/kaufman-triangle.svg);
   background-size: contain;
   z-index: -1;
-
-
 }
 
 .section-title_theme_dark {
