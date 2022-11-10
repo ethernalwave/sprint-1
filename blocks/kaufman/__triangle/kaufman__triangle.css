@@ -1,0 +1,11 @@
+.kaufman__triangle {
+    display: flex;
+    position: absolute;
+    right: -210px;
+    top: 0;
+    width: 877px;
+    height: 877px;
+    background-image: url('/sprint-1/images/kaufman-triangle.svg');
+    background-size: contain;
+    z-index: -1;
+  }
