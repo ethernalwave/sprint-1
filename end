@@ -1,0 +1,82 @@
+[33mcommit a7a26d800761f1dd33f66a0e0ddbb74277b93f75[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Egor Kalinichev <ethernalwave.dev@gmail.com>
+Date:   Thu Nov 10 16:21:02 2022 +0500
+
+    Design according to BEM
+
+[33mcommit cc434ec517dd91d8e09ba28cb2f19be8883feada[m
+Author: Egor Kalinichev <ethernalwave.dev@gmail.com>
+Date:   Thu Nov 10 16:20:40 2022 +0500
+
+    Design according to BEM
+    
+    Co-authored-by: Artem Kiselev <kuzuru.dev@gmail.com>
+
+[33mcommit 9ca773c13bb710e823f377489c159b95d3c8b8d7[m
+Author: Egor Kalinichev <ethernalwave.dev@gmail.com>
+Date:   Thu Nov 10 16:18:50 2022 +0500
+
+    Co-authored-by: Artem Kiselev <kuzuru.dev@gmail.com>
+
+[33mcommit 3418fcda9bf79618946c075992917dfba02fdc8f[m
+Merge: 08d9c40 b8c700d
+Author: Egor Kalinichev <ethernalwave.dev@gmail.com>
+Date:   Thu Sep 1 14:27:01 2022 +0500
+
+    Merge pull request #1 from ethernalwave/dev
+    
+    Finished Project
+
+[33mcommit b8c700d2099824c2a7fa76c4e3ddd912945c1340[m[33m ([m[1;31morigin/dev[m[33m)[m
+Author: Egor Kalinichev <ethernalwave.dev@gmail.com>
+Date:   Thu Sep 1 13:15:39 2022 +0500
+
+    Fixed Comments, Added HTML Entity
+
+[33mcommit f09024550d140624c64695f95e41915067e2d8fb[m
+Author: Egor Kalinichev <ethernalwave.dev@gmail.com>
+Date:   Thu Sep 1 11:57:35 2022 +0500
+
+    Added Footer
+
+[33mcommit 97fef6c05b6becea327b593921898f74083c18de[m
+Author: Egor Kalinichev <ethernalwave.dev@gmail.com>
+Date:   Tue Aug 30 23:23:48 2022 +0500
+
+    Changed Page Background
+
+[33mcommit 38b5dfbc79266177284258beb8f18095b7123c1b[m
+Author: Egor Kalinichev <ethernalwave.dev@gmail.com>
+Date:   Tue Aug 30 23:17:47 2022 +0500
+
+    Added Feynman, Kaufman
+
+[33mcommit e4a5a2bb3f11ae3accf6609e91a934d1fb6178cf[m
+Author: Egor Kalinichev <ethernalwave.dev@gmail.com>
+Date:   Mon Aug 29 21:11:12 2022 +0500
+
+    Added Digits, Tables
+
+[33mcommit 857fb95a793b73aab74ad95a508f179d42ff1e20[m
+Author: Egor Kalinichev <ethernalwave.dev@gmail.com>
+Date:   Mon Aug 29 19:45:46 2022 +0500
+
+    Add Description
+
+[33mcommit 3bb3576b96aaa092d8883855496b3004bf1ce0c2[m
+Author: Egor Kalinichev <ethernalwave.dev@gmail.com>
+Date:   Mon Aug 29 19:14:10 2022 +0500
+
+    Create Header
+
+[33mcommit 87540c1303a23b818ddc69ebe31cee391e6ce251[m
+Author: Egor Kalinichev <ethernalwave.dev@gmail.com>
+Date:   Mon Aug 29 13:09:30 2022 +0500
+
+    Changed HTML and CSS
+
+[33mcommit 08d9c408b8ee69908a145ae9a4ece1fe89582a52[m
+Author: Egor Kalinichev <ethernalwave.dev@gmail.com>
+Date:   Mon Aug 29 10:55:05 2022 +0500
+
+    Initial commit

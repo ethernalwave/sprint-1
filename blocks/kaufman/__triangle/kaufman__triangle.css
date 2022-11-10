@@ -5,7 +5,7 @@
     top: 0;
     width: 877px;
     height: 877px;
-    background-image: url('/sprint-1/images/kaufman-triangle.svg');
+    background-image: url('../__triangle/kaufman__triangle.css');
     background-size: contain;
     z-index: -1;
   }

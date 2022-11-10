@@ -3,6 +3,7 @@
 @import url('__link/header__link.css');
 @import url('__main-illustration/header__main-illustration.css');
 @import url('__square-pic/header__square-pic.css');
+@import url('../blocks/rotation/rotation.css');
 
 .header {
     position: relative;
@@ -15,3 +16,5 @@
     padding-bottom: 50px;
   
   }
+
+  
