@@ -6,7 +6,6 @@
     transform: rotate(360deg);
   }
 }
-
 @keyframes rotation-square {
   from {
     transform: rotate(-15deg);
@@ -15,11 +14,9 @@
     transform: rotate(345deg);
   }
 }
-
 .rotation-triangle {
   animation: rotation-triangle 20s linear infinite;
 }
-
 .rotation-square {
   animation: rotation-square 20s linear infinite;
 }

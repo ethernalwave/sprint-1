@@ -5,7 +5,7 @@
 @import url('./__columns/__column_content_info/footer__column_content_info.css');
 @import url('./__columns/__column_content_social/footer__column_content_social.css');
 @import url('./__columns/__column_links/footer__column-links.css');
-@import url('./_link/footer_link.css');
+@import url('./__link/footer__link.css');
 
 .footer {
     position: relative;
