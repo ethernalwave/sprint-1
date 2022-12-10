@@ -1,11 +1,11 @@
 .kaufman__triangle {
-    display: flex;
-    position: absolute;
-    right: -210px;
-    top: 0;
-    width: 877px;
-    height: 877px;
-    background-image: url('../__triangle/kaufman__triangle.css');
-    background-size: contain;
-    z-index: -1;
-  }
+  display: flex;
+  width: 877px;
+  height: 877px;
+  background-image: url('../../../images/kaufman_tirangle/kaufman-triangle.svg');
+  background-size: contain;
+  position: absolute;
+  top: 0;
+  right: -210px;
+  z-index: -1;
+}
