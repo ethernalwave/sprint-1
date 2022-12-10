@@ -25,6 +25,7 @@
 @import url('../blocks/two-columns/two-columns.css');
 
 @import url('../blocks/cards/cards.css');
+<<<<<<< HEAD
 
 @import url('../blocks/technics/technics.css');
 
@@ -33,6 +34,14 @@
 @import url('../blocks/video/video.css');
 
 @import url('../blocks/oakley/oakley.css');
+=======
+@import url('../blocks/techniques/techniques.css');
+@import url('../blocks/rotation/rotation.css');
+@import url('../blocks/video/video.css');
+@import url('../blocks/oakley/oakley.css');
+@import url('../blocks/khan/khan.css');
+@import url('../blocks/resource/resource.css');
+>>>>>>> 6281837515ac39dfaf6367711503f4a6ba953fd4
 
 @import url('../blocks/khan/khan.css');
 

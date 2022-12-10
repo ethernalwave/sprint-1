@@ -6,6 +6,10 @@
     transform: rotate(360deg);
   }
 }
+<<<<<<< HEAD
+=======
+
+>>>>>>> 6281837515ac39dfaf6367711503f4a6ba953fd4
 @keyframes rotation-square {
   from {
     transform: rotate(-15deg);
@@ -14,9 +18,17 @@
     transform: rotate(345deg);
   }
 }
+<<<<<<< HEAD
 .rotation-triangle {
   animation: rotation-triangle 20s linear infinite;
 }
+=======
+
+.rotation-triangle {
+  animation: rotation-triangle 20s linear infinite;
+}
+
+>>>>>>> 6281837515ac39dfaf6367711503f4a6ba953fd4
 .rotation-square {
   animation: rotation-square 20s linear infinite;
 }
